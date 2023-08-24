@@ -1,6 +1,6 @@
 NOTES
 
-- cd vscode/nora/nora and make to create new server - http://0.0.0.0:4200/student/
+- cd vscode/nora/nora and make to create new server - http://0.0.0.0:4200/nora/
 - Always create and update README.md (update and explain things about your site/blog)
 - index.mb is always main homepage
 - NEVER commit a file you did not code/create
