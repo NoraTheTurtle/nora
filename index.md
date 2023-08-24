@@ -5,7 +5,7 @@ title: Nora's Blog
 
 # Nora's Blog Homepage
 
-hello my name is Nora Ahadian! I am in period 3 CSSE
+hello! my name is Nora Ahadian! I am in period 3 CSSE
 
 # My Strugles And How I overcame Them!
 
