@@ -1,8 +1,11 @@
+NOTES
+
 - cd vscode/nora/nora and make to create new server - http://0.0.0.0:4200/student/
 - Always create and update README.md (update and explain things about your site/blog)
 - index.mb is always main homepage
+- NEVER commit a file you did not code/create
 
 PROGRESS WEEK BY WEEK:
-week 0 coding in all of the files, making teacher/student directory and coding in all of the nessesary files
+week 0 coding in all of the files, making teacher/student directory and coding in all of the nessesary files (had trouble making new repository on github/cloning it)
 
-week 1 making new repository on github and 
+week 1 making new repository on github and coding my index.mb page.  Learned how to change theme and add images (had trouble commiting changes)
