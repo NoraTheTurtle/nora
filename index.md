@@ -25,6 +25,4 @@ my favorite animal is a turtle and I used to have one when I was younger!
 # Freeform Picture
 all about me in one picture
 
-<img src="images/freeform.jpg" width= "500" height= "5
-'\:}lk[/jp.,hoimd3ex    qbnmyuio9jp0kl
-]k[-p09o8i7u600">
+<img src="images/freeform.jpg" width= "450" height= "550">
