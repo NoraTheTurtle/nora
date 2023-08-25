@@ -5,13 +5,14 @@ title: Nora's Blog
 
 # Nora's Blog Homepage
 
-hello my name is Nora Ahadian! I am in period 3 CSSE
+hello! my name is Nora Ahadian! I am in period 3 CSSE
+
 
 # weeky updates!
 
 | weeks  | struggles                                                                                                                                                                                                                  | learned                                                                                                                 | tangibles                               |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| week 1 | -adding image and uploading to my image to vscode -learning diffrent coding words and what they mean -figuring out how to code in markdown -learning how to change themes -had a build error when trying to commit changes | cd -change directory mkdir -make new directory make -make new server make clean- cleans the files ls -lists directories | [my blog](http://0.0.0.0:4200/student/) |
+| week 1 | At first I strugled to learn to make a new repository and to clone that using "git clone".  Then I had strugles with commiting my changes as whenever I commited it would show an error on github.  To overcome these strugles I decided to take inisitive and look at the error on github and try to find a solution to my problem.  I also used my resources by asking fellow students or uperclassmen for their insight to find an awsner to my problem.| Cd means to change directory. "MKDIR" makes a new directory. Make creates a new server.  Make clean stops the currect server and resets it essentially cleaning the files. Ls stands for list which lists the current avalible directories.  The code to add an immage is "img src= image link..." but inside of <>| [my blog homepage!](http://0.0.0.0:4200/nora/) |
 | week 2 |                                                                                                                                                                                                                            |                                                                                                                         |                                         |
 | week 3 |                                                                                                                                                                                                                            |                                                                                                                         |                                         |
 
