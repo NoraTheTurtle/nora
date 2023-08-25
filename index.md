@@ -4,8 +4,13 @@ title: Nora's Blog
 ---
 
 # Nora's Blog Homepage
+### a little bit about me
+hello! my name is Nora Ahadian! I am in period 3 CSSE.
 
-hello! my name is Nora Ahadian! I am in period 3 CSSE
+i am a rower and an athlete at san diego rowing club located in mission bay!
+
+my favorite animal is a turtle and I used to have one when I was younger!
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJzMGdsYms4amV4dmdkdnB3YXRkMWk0b253bGFlem9zZ3E2ZTc5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CcoBOdLl6aUwI5OldS/giphy.gif" width="250" height="250"> <img src="https://media.tenor.com/1hdsn62I4tkAAAAC/turtle-cute.gif" width="320" height="260">
 
 
 # weeky updates!
@@ -16,11 +21,10 @@ hello! my name is Nora Ahadian! I am in period 3 CSSE
 | week 2 |                                                                                                                                                                                                                            |                                                                                                                         |                                         |
 | week 3 |                                                                                                                                                                                                                            |                                                                                                                         |                                         |
 
-# My Strugles And How I overcame Them!
-
-while trying to create my blog I had many issues and faced many bugs.  I overcame these strugles by asking my peers and teachers, by testing and reworking my code, and by using my given resources such as mr.mortsensen's teacher blog.
 
 # Freeform Picture
 all about me in one picture
 
-<img src="images/freeform.jpg">
+<img src="images/freeform.jpg" width= "500" height= "5
+'\:}lk[/jp.,hoimd3ex    qbnmyuio9jp0kl
+]k[-p09o8i7u600">
